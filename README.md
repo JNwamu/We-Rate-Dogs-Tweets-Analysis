@@ -9,7 +9,7 @@ This Dataset is a tweet archive for the twitter user **@dog_rates** also known a
 
 During the assessing and wrangling process, several quality and untidy issues where identified and cleaned. Below were some of the issues identified.
 
-# Quality Issues
+#### Quality Issues
 
 
 **`twitter_archive_enhanced` table**
@@ -34,7 +34,7 @@ During the assessing and wrangling process, several quality and untidy issues wh
 - incorrect data type for tweet_id column.
 
 
-# Tidness Issues
+#### Tidness Issues
 
 
  **`twitter_archive_enhanced` table**
