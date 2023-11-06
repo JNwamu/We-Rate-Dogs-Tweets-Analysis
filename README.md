@@ -7,7 +7,7 @@ This Dataset is a tweet archive for the twitter user **@dog_rates** also known a
 
 ## Summary of Assessment
 
-During the assessing and wrangling process, several quality and untidy issues where identified and cleaned. Below were some of the issues identified.
+During the assessing and wrangling stage, several quality and untidy issues where identified and cleaned. Below were some of the issues identified.
 
 #### Quality Issues
 
